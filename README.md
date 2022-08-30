@@ -1,4 +1,4 @@
-# CSA-Africa-Heart-Attack-Prediction
+# CSA-Africa-Heart-Attack-Prediction-Project
 
 
 ## About this [dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
